@@ -2,6 +2,11 @@
 
 This is a personal portfolio website built with Next.js.
 
+## Deployment
+
+This website is automatically deployed on Vercel. You can view the live version at:
+[View Live Website](https://mada-capital-portfolio-website.vercel.app)
+
 ## Getting Started
 
 First, run the development server:
